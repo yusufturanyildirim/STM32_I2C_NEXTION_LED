@@ -242,7 +242,7 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 	  
-	  // Link of project video -----------> https://drive.google.com/file/d/1u4zSgb15ZLs2_ubFKhAd93a6m92ZAM6e/view?usp=sharing
+	  // Link of project video -----------> https://drive.google.com/file/d/1t2BQ6f1A7iYuSNHACwhNgc-JZ7MDPGb0/view?usp=sharing
 	  
 	  HAL_UART_Receive(&huart1, (uint8_t *)rx_data, 50 , 100);
 	  lcd_led_control();
